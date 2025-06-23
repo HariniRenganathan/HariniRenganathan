@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @HariniRenganathan
 - 👀 I’m interested in DATA STRUCTURES AND ALGORITHMS
-- 🌱 I’m currently pursuing pre final year in ARTIFICIAL INTELLIGENCE AND DATA SCIENCE 
+- 🌱 I’m currently pursuing
+-  final year in ARTIFICIAL INTELLIGENCE AND DATA SCIENCE 
 - 💞️ I’m looking to collaborate on like minded people in the platform
 - 📫 How to reach me ::>///
 
